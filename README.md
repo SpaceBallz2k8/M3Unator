@@ -5,7 +5,7 @@
 ![M3Unator Banner](https://raw.githubusercontent.com/hasanbeder/M3Unator/main/screenshots/screenshot.png)
 
 ![License](https://img.shields.io/badge/License-GPL--3.0-green.svg)
-![Version](https://img.shields.io/badge/Version-1.1.0--Fork-blue.svg)
+![Version](https://img.shields.io/badge/Version-2.0.0--Fork-blue.svg)
 ![GitHub stars](https://img.shields.io/github/stars/SpaceBallz2k8/M3Unator?style=social)
 
 **M3Unator** is a powerful tool designed to turn any open web directory into a beautifully organized M3U/M3U8 playlist. This enhanced fork adds deeper metadata support and broader compatibility for modern server environments.
